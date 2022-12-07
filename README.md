@@ -11,3 +11,7 @@ Enter in your phone number and learn something new... about cats!
 - [TailwindCSS](https://tailwindcss.com)
 - [tRPC](https://trpc.io)
 
+## Other:
+- [Cat Fact API](https://catfact.ninja/)
+- [Twilio API](https://twilio.com/)
+- [Vercel](https://vercel.com)
